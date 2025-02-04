@@ -1,6 +1,4 @@
 # Plan-de-sostenibilidad-de-una-empresa
-
-# Economia circular
 ## Indice
 1. [Impacto ambiental del sector TI](introduccion.md)
 2. [Grupos de interés](grupos.md)
