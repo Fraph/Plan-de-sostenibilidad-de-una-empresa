@@ -1,8 +1,8 @@
-# Plan-de-sostenibilidad-de-una-empresa
+# Gafas de Realidad Virtual
 ## Indice
-1. [Impacto ambiental del sector TI](impacto.md)
-2. [Grupos de interés](grupos.md)
-3. [Aspectos ASG materiales](ASG.md)
+1. [¿Que son?](descripción.md)
+2. [Utilidad](utilidad.md)
+3. [Funcionamiento](funcionamiento.md)
 
 ---
 ![introduccion](img/introduccion.jpg)
